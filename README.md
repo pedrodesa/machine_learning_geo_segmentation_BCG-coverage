@@ -8,4 +8,4 @@
 |---:|:---:|:---|
 | Cobertura vacinal de BCG | Target | RNDS |
 
-A análise de dados pode ser vista no [Notebook](https://github.com/pedrodesa/machine_learning_geo_segmentation_BCG-coverage/blob/main/analise_bcg.ipynb).
+Os detalhes da análise de dados pode ser vista no [Notebook](https://github.com/pedrodesa/machine_learning_geo_segmentation_BCG-coverage/blob/main/analise_bcg.ipynb).
